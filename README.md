@@ -35,6 +35,9 @@ The simulator utilizes a **Physics-Informed Data Science** approach:
 - **Data Handling:** Pandas, NumPy
 - **Visualization:** Plotly (Interactive Graphs)
 - **Data Source:** Equinor Volve Field Open Data
+- <img width="1915" height="886" alt="Screenshot_2026_01_16-11" src="https://github.com/user-attachments/assets/985f8bf9-4ded-4520-9c60-51c3d14a030a" />
+<img width="1920" height="893" alt="Screenshot_2026_01_16-10" src="https://github.com/user-attachments/assets/bea594d9-6dad-4478-b8f1-6cbb485f3af5" />
+
 
 ## 📂 Project Structure
 ```text
